@@ -1,21 +1,21 @@
 
 include(cpfAddPackage)
 
-set( PACKAGE_NAMESPACE lb0 )
+set( PACKAGE_NAMESPACE b )
 cpfInitPackageProject(
 	PACKAGE_NAME
 	${PACKAGE_NAMESPACE}
 )
-
 set( briefDescription "A C++ libary used for testing the CPF" )
 set( longDescription "" )
 
+
 set( PACKAGE_PUBLIC_HEADER
-    lib0.h
+    b.h
 )
 
 set( PACKAGE_PRODUCTION_FILES
-	lib0.cpp
+	b.cpp
 )
 
 set(PACKAGE_FIXTURE_FILES

@@ -1,8 +1,8 @@
-#include <lib0/lib0.h>
+#include <BPackage/b.h>
 
-namespace lb0
+namespace b
 {
-    void lib0Function()
+    void bFunction()
     {
         
     }
