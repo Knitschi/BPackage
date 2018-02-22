@@ -7,3 +7,4 @@ namespace b
     B_EXPORT void bFunction();
 }
 namespace{} 
+namespace{} 
