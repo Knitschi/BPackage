@@ -8,3 +8,4 @@ namespace b
     }
 }
 
+namespace{} 
