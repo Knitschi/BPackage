@@ -9,3 +9,4 @@ namespace b
 				  << "\n";
 	}
 }
+
